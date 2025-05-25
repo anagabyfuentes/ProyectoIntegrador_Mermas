@@ -1,0 +1,33 @@
+1. Tendencia general de mermas
+Conclusión: La merma ha mostrado una tendencia creciente entre 2022 y 2024, con picos regulares en los meses de junio y julio
+* En bodega isla vemos incrementos en Diciembre para tomate Saladete
+* Esto sugiere patrones estacionales.
+* Puede estar ligado a campañas agrícolas, falta de rotación o eventos climáticos.
+2. Relación con clima y economía
+Conclusión: Las mermas parecen tener correlación positiva con altas temperaturas y humedad, y posiblemente con aumentos en el costo de energía.
+* Las condiciones climáticas extremas parecen reducir la vida útil de productos perecederos.
+* Costos energéticos más altos podrían afectar refrigeración y conservación.
+3. Productos críticos en merma
+Conclusión: Los productos con mayor nivel de cajas de merma son:
+1. Tomate Saladete, 2. Tomate Bols, 3. Pepino 
+* Merecen revisión en empaques, transporte, o tiempos de almacenamiento.
+* Podrían priorizarse en programas de donación, venta rápida o aprovechamiento en recetas específicas.
+4. Comparación por fuente (bodega vs isla)
+Conclusión: La bodega isla presentan mayor volumen de merma que la bodega 321 con un incremento significativo en 2024.
+* Las islas pueden tener menos volumen, pero más exposición ambiental directa.
+* Las bodegas quizás tienen mayores tiempos de acopio, las mermas se mantienen consistentemente y se observa patrones más claros en verano
+5. Patrones estacionales
+Conclusión: Se observan patrones de mayor merma en los meses de verano y cambios bruscos al inicio de ciclos agrícolas (ej: abril, octubre).
+* Información clave para ajustar inventarios y compras
+6. Información para decisiones estratégicas
+Conclusión: El dashboard facilita identificar productos a priorizar para:
+* Donaciones (aquellos con alta merma y bajo valor económico).
+* Inventario dinámico (ajustar compras según patrones de merma).
+* Optimización energética (alinear merma con consumo de energía).
+7. Capacidad operativa mejorada
+Conclusión: La visualización en tiempo real permitiría:
+* Reaccionar más rápido ante el manejo de la merma al observar patrones.
+* Predecir mejor el comportamiento mensual de mermas por producto.
+* Coordinar campañas de venta urgente o donación antes de que la merma ocurra.
+* Sin embargo hay área de oportunidad en estandarizar las cajas, obtener mayor detalle de cantidades y almacenar datos consistentemente de kilos.
+
